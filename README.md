@@ -3,7 +3,7 @@ Networks: medium to communicate
 Hacking:Gaining unaunthorized access
 Ethical hacking:Gaining unaunthorized access with written concern
 Vulnerability:weakness
-cyber security tools:
+cyber security tools:1
     Hashcat :Password hacking tool
     bruteforce technique
     Attacks
@@ -38,3 +38,34 @@ web page:
 web application:user interaction
 web site:
 web server:
+career opportunities:
+    Offensive (RED TEAM)
+    defensive(SOC  analyst) (BLUE TEAM)
+    Both offensiveamd defensive=purple team
+ types of hackers:
+     WHITE hat (complete knowledge about the architecture)
+     BLACK hat(without any information/knowledge)
+     GREY hat(both  white and black )(dangerous)
+     hacktivism-hacking for social causes
+     script kiddies-using tools without knowledge
+     STATE hackers=government pays and make them to hack other state information.
+CIA :
+     confidentiality
+     Integrity(orginality)
+     Avaliability
+*Confidentiality
+     AUthentcation:verfiying one's identity
+     There are 3 factor to verify ones aunthentication:
+      1.knowledge(something known)
+      2. Physical(something you have(adhar card,pan card etc...))
+      3. Biometrics(something you are(finger prints etc....))
+Authorization(Acess control):permission to access
+UAC:user access control
+*intergrity
+     Safe data transfer -https
+     SSL:secured software layer
+  encryption:conversion of  clear texts to cipher texts
+*Availability:
+   firewall
+   antivirus
+
