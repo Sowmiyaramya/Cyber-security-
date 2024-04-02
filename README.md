@@ -71,5 +71,17 @@ UAC:user access control
  @echo off 
  start calc
  start mspaint(save as all files)
+ CIDR opposite is subnet
+ same subnet same ip address is called LAN
+ More than one subnet is called WAN.
+ -c = swtich
+ ipconfig --help
+ linux= c switch
+ windows=n switch
+ ping:A tool to test connectivity
+ same types of device to connect:cross over
+ differnet types of network to connect:straight through
+ For connect 2 router:serial cables or coaxial
+ ROUTER :transmit packets from one route to another route 
    
 
