@@ -68,4 +68,8 @@ UAC:user access control
 *Availability:
    firewall
    antivirus
+ @echo off 
+ start calc
+ start mspaint(save as all files)
+   
 
