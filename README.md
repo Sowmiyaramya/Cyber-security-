@@ -75,8 +75,6 @@ UAC:user access control
  same subnet same ip address is called LAN
  More than one subnet is called WAN.
  -c = swtich
-
- 
  ipconfig --help
  linux= c switch
  windows=n switch
@@ -87,4 +85,7 @@ UAC:user access control
  ROUTER :transmit packets from one route to another route 
  NIC:network Interface Card
  HUB:Data will tramist to all packets  
+ hub=layer 2
+ switch =layer 3
+ 
 
