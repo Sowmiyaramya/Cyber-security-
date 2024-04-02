@@ -75,6 +75,8 @@ UAC:user access control
  same subnet same ip address is called LAN
  More than one subnet is called WAN.
  -c = swtich
+
+ 
  ipconfig --help
  linux= c switch
  windows=n switch
@@ -83,5 +85,6 @@ UAC:user access control
  differnet types of network to connect:straight through
  For connect 2 router:serial cables or coaxial
  ROUTER :transmit packets from one route to another route 
-   
+ NIC:network Interface Card
+ HUB:Data will tramist to all packets  
 
