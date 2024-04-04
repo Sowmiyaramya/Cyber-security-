@@ -120,6 +120,11 @@ The *mkdir*command in Linux/Unix is a command-line utility that allows users to 
 *mv* COMMAND IS USED TO MOVE
 mv .\sourcefilename .\destfilename\
 *cp* - USED TO COPY THE FILE
+DNS is working with port 53
+python -m http.server 9999
+local host=
+ETH0:ethernet 0
+LO:loop back
  
  
 
