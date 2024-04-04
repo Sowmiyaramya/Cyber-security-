@@ -140,5 +140,6 @@ ip.adrr==163.170.138.35
  TLS handshake:TRansport layer security
  Virustotal
  Differnce b/w hashing and encryption
+ All possible  permutation and combination is called brute force attack.
  
 
