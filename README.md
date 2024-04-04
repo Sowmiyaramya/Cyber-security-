@@ -138,5 +138,7 @@ ip.adrr==163.170.138.35
  SYN-ACK
  ACK  this 3 is called 3 way handshake.
  TLS handshake:TRansport layer security
+ Virustotal
+ Differnce b/w hashing and encryption
  
 
