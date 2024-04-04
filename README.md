@@ -133,6 +133,10 @@ Decrytion "ciper text to clear text
 Asymmetric encryption:** public key and private key
 wireshark: packet analayer tool
 ip.adrr==163.170.138.35
- 
+ 3 way handshake:sending SYN packet
+ SYN
+ SYN-ACK
+ ACK  this 3 is called 3 way handshake.
+ TLS handshake:TRansport layer security
  
 
