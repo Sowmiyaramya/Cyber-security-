@@ -118,6 +118,7 @@ WHERE PROGRAM IS DOWNLOADED=*where python*
 IF EXTENSION IS NOT THERE THEN IT IS NOT VISIBLE IN WINDOWS
 The *mkdir*command in Linux/Unix is a command-line utility that allows users to create new directories
 *mv* COMMAND IS USED TO MOVE
+
 mv .\sourcefilename .\destfilename\
 *cp* - USED TO COPY THE FILE
 DNS is working with port 53
@@ -125,6 +126,13 @@ python -m http.server 9999
 local host=
 ETH0:ethernet 0
 LO:loop back
+VPN:encryption/decryption
+ENcyption:clear text to cipher text
+Decrytion "ciper text to clear text
+**symmetric encryption:  SINGLE KEY
+Asymmetric encryption:** public key and private key
+wireshark: packet analayer tool
+ip.adrr==163.170.138.35
  
  
 
