@@ -161,6 +161,17 @@ Tor -bitcoin 1b -$67000
 user  agent=browser
 sudo nmcli networking  on (network command).
 service networkmanager start
+webportocol -http/https
+top level domain -TLD
+subdomain:oru website la innoru website run aagaum.
+linux-/var/www/html
+windows-c:\innetpub\wwwroot
+
+HTTP/2=https protocol
+HTTP/1.1=HTTP PROTOCOL
+username enumeration
+
+
  
  
 
