@@ -1,3 +1,4 @@
+
 cyber security:securing data,devices,etc...
 Networks: medium to communicate
 Hacking:Gaining unaunthorized access
@@ -141,5 +142,25 @@ ip.adrr==163.170.138.35
  Virustotal
  Differnce b/w hashing and encryption
  All possible  permutation and combination is called brute force attack.
+ Https is a asymmetric encryption.
+ ippacket craft:design the own packet
+ THERE are 3 Testing  environment:
+   1.[production environment-live websites/ web app
+   2.staging environment-Actual copy of production environment
+   3.QA environment-test build
+  client request --- > server Response-->DB 
+   HTTP methods                response code
+       GET                       1xx-informational(change the protocols)
+       POST                      2xx-sucess
+       PUT                       3xx-redirection
+       OPTIONS                   4xx-cilent side error
+       DELETE.                   5xx-server side error
+Client --> proxy--> server
+proxy=control the entire information
+Tor -bitcoin 1b -$67000
+user  agent=browser
+sudo nmcli networking  on (network command).
+service networkmanager start
+ 
  
 
