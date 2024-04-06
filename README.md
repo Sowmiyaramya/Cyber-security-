@@ -211,6 +211,12 @@ important cyber security terms.
     
 CMS: Content mananegemt system.
 sudo apt install which tool to install.
+Top 10 Web Application Security Risks :
+   how it can be dedect anf how to prevent.
+   WAF: web application  firwall
+    how to dededect sql using single quote and double quote.
+directory traversal: nagivate from onr directory to anaother directory.
+
 
       
 
