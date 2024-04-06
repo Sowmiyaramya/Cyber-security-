@@ -147,7 +147,7 @@ ip.adrr==163.170.138.35
  THERE are 3 Testing  environment:
    1.[production environment-live websites/ web app
    2.staging environment-Actual copy of production environment
-   3.QA environment-test build
+   3.QA environment-test build we can review the code.
   client request --- > server Response-->DB 
    HTTP methods                response code
        GET                       1xx-informational(change the protocols)
@@ -170,7 +170,49 @@ windows-c:\innetpub\wwwroot
 HTTP/2=https protocol
 HTTP/1.1=HTTP PROTOCOL
 username enumeration
+RIsk matrix:based on likeihood.
+Vulnerability assessment process:
+     asset discovery
+     vulnerability scanning = thrid party  applications
+     vulnerability assessment = 
+     vulnerability remediation
+  cvss socre= common vulnerability scoring system.
+  severity score range:'
+     none 0.0
+     low  0.1-3.9
+     medium 4.0-6.9
 
+    vulnerability identity ways:
+          mannual mathod.
+ApI =transfer the data from front end to back end.SA
+    it delivers the data to server.
+important cyber security terms.
+ Policy=
+ procedure =steps by step process of follow of policy.
+ standard=
+ regulations =govenement rules
+ SAST  tools=static application security testing.
+ Penetration testing process:
+    1. information gathering
+    2.Theart modeling
+    3.vulnerabilities analysis
+    4.exploatation
+    5.reporting.
+ 5 phases of penetration testing 
+  1.Information gathering.
+  2.scanning= indetail about the information.
+  3.Gaining access=we can hack one system
+  4.Maintaining access=
+  5.clearing 
+  types of penetration testing: 
+     internal= 
+     external=they will hack like realkachers.
+ 
+    
+CMS: Content mananegemt system.
+sudo apt install which tool to install.
+
+      
 
  
  
