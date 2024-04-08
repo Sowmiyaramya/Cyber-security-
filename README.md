@@ -216,6 +216,9 @@ Top 10 Web Application Security Risks :
    WAF: web application  firwall
     how to dededect sql using single quote and double quote.
 directory traversal: nagivate from onr directory to anaother directory.
+web shell- browser
+bind shell-process combine
+reverse shell-user interaction
 
 
       
