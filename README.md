@@ -219,6 +219,15 @@ directory traversal: nagivate from onr directory to anaother directory.
 web shell- browser
 bind shell-process combine
 reverse shell-user interaction
+need for cyber securtiy:
+    CHECK PONIT company releases lots of websites
+ Types of foot printing:
+ Active :directing interact with the target
+ passive: trying to collet the information about the target.
+ DdOS(Distributed Denial of services): It is designed foe overload a website.
+
+ 
+    
 
 
       
