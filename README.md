@@ -225,6 +225,8 @@ need for cyber securtiy:
  Active :directing interact with the target
  passive: trying to collet the information about the target.
  DdOS(Distributed Denial of services): It is designed foe overload a website.
+ WSA=secured web appliance
+ 
 
  
     
