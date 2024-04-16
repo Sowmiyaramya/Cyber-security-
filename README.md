@@ -231,6 +231,10 @@ need for cyber securtiy:
  risk avoidance=before 
  risk mitigation
  risk transfer
+ Standrad operating procedure(SOP) ;specific time HIFH =50 MINS we need to take action according to the given tym.
+ PIP=performance improvement program
+ SLA=service level agreement
+                  
  
 
  
