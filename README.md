@@ -234,6 +234,7 @@ need for cyber securtiy:
  Standrad operating procedure(SOP) ;specific time HIFH =50 MINS we need to take action according to the given tym.
  PIP=performance improvement program
  SLA=service level agreement
+ Important command=gpupdate./
                   
  
 
