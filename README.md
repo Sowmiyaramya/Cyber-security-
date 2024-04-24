@@ -234,8 +234,34 @@ need for cyber securtiy:
  Standrad operating procedure(SOP) ;specific time HIFH =50 MINS we need to take action according to the given tym.
  PIP=performance improvement program
  SLA=service level agreement
- Important command=gpupdate./
-                  
+ Important command=gpupdate./foreces
+
+ 7 STAGES OF CYBER KILLS chain
+ reconnaisance
+ Weaponisation
+ delivery
+ exploitation
+ Insatllation
+ command & control
+ actions on objectives
+
+
+THE DIAMOND MODEL:
+  FOUR KEYS OF DIAMOND MODEL
+    Adversary=Attacker
+    victim
+    Infrastructure
+    capabilities
+to crack the password in commamd line:
+  1.online password cracking- 
+           EX.BURPSUITE ,Hydra-it is a limited protocol
+    2.offline password cracking-PU/GPU
+             John/Hashcat
+     GPU is faster than CPU
+      -------------------------------
+hydra - 
+  777=read=4,write=2,excute 1
+ 
  
 
  
