@@ -261,6 +261,9 @@ to crack the password in commamd line:
       -------------------------------
 hydra - 
   777=read=4,write=2,excute 1
+ curl and wget  
+ method 1:python pty module
+ 
  
  
 
